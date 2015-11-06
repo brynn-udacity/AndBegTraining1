@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndBegTraining1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="natural_selection">Natural selection is perhaps the most well-known mechanism of evolution. The general idea is that traits that improve an organism\'s ability to survive and reproduce are "selected" by evolution. These traits tend to show up more frequently in subsequent generations, and can even wipe out competing traits. It\'s commonly referred to as "survival of the fittest".</string>
+    <string name="gene_flow">Gene flow is essentially just new genes entering a population because a different population or species introduces it. That gene may not actually be detrimental to survival, but it still has the potential to become the predominant gene in the new population.</string>
+    <string name="genetic_drift">Genetic drift describes the phenomenon in which a trait becomes more common in a population due to random chance. Genetic drift often operates in the absence of selection on particular traits. However it can also cause populations to gravitate towards traits that seem to directly impede survival rates.</string>
+    <string name="biased_mutation">Biased mutation occurs when some trait occurs more frequently because mutation at the DNA level is strong enough to change a population overall. For example, if a particular direction of single-nucleotide mutation occurs more commonly (like A->C is more common than C->A), one direction of mutation could happen at a higher rate and effect the allele frequency in a population.</string>
+</resources>
